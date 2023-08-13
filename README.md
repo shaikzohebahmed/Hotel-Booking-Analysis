@@ -53,7 +53,7 @@
 * **Understanding of Python and its libraries like Numpy, pandas, Matplotlib and seaborn**
 
 # **Technologies used**
-* **IDE- Google colab**
+* **IDE- Jupyter Notebook**
 
 ### **Goal:** **The main objective is to discover important factors that govern the bookings.**
 
